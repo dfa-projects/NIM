@@ -1,0 +1,23 @@
+{
+  "name": "build-day",
+  "version": "1.0.0",
+  "description": "nim",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanna-98/build-day.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanna-98/build-day/issues"
+  },
+  "homepage": "https://github.com/hanna-98/build-day#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "jasmine": "^3.7.0"
+  }
+}
